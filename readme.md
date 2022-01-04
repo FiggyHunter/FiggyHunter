@@ -30,27 +30,22 @@
 
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+## 📊 My Github Stats
 <p align="center">
     <img title="Streak stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FiggyHunter&theme=midnight-purple"/>
 </p>
-
-## 📊 My Github Stats
-
   <br/>
-    <img alt="Leonardo Github Stats" src="https://github-readme-stats.vercel.app/api?username=FiggyHunter&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img alt="Leonardo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiggyHunter&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <p align="center"><img alt="Leonardo Github Stats" src="https://github-readme-stats.vercel.app/api?username=FiggyHunter&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&text_color=ffffff&title_color=7234baff&icon_color=7234baff"/></p>
+
+  <p align="center"><img alt="Leonardo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiggyHunter&langs_count=8&count_private=true&layout=compact&&hide_border=true&bg_color=000000&text_color=ffffff&title_color=7234baff" width = 500px /></p>
   <br/>
+
+  <img alt="Leonardo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FiggyHunter&bg_color=000000&text_color=ffffff&title_color=7234baff&hide_border=true&"/>
+
   <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
-<br/>
-<br/>
-
-<img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FiggyHunter&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-
-<br/>
 <br/>
 
 ## Connect with me:
