@@ -7,11 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Leo's testing ground](https://www.leotg.com)**
+- 🔭 I’m currently working on **<a href="https://www.leotg.com" target=_blank> **Leo's Testing Ground** </a>**
 
 - 🌱 I’m currently learning **Responsive web development** and **Javascript.**
 
-- 👨‍💻 One place to find my projects **---->** **[_My Portfolio_](https://subhamraoniar.com)**
+- 👨‍💻 One place to find my projects **---->** <a href="https://www.leotg.com"  target=_blank> **My portfolio** </a>
 
 - 📫 How to reach me - **leonardo.roi3@gmail.com**
 
