@@ -1,4 +1,4 @@
-<a href="#"><img width="100%"  src="https://content.techgig.com/photo/75755485/Are-you-a-programmer-You-can-make-money-with-these-12-ideas-instantly.jpg" width=30px height="450px"/></a>
+<p align="center"><img width="80%"  src="https://content.techgig.com/photo/75755485/Are-you-a-programmer-You-can-make-money-with-these-12-ideas-instantly.jpg" width=30px height="450px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leonardo</h1>
 <h2 align="center">I'm on my road to become a full stack developer.</h2>
