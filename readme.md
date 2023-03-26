@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **<a href="https://www.leotg.com" target=_blank> **Leo's Testing Ground** </a>**
 
-- 🌱 I’m currently learning **Responsive web development** and **Javascript.**
+- 🌱 I’m currently learning **Vue.js** and **SEO optimization strategies.**
 
 - 👨‍💻 One place to find my projects **---->** <a href="https://www.leotg.com"  target=_blank> **My portfolio** </a>
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact - I adore **MCRN Donnager**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Interesting paid or unpaid projects that require frontend or UX knowledge.**
 
 ## 🚀 Languages and Tools:
 
