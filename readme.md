@@ -24,7 +24,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" height=70px width=70px/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" height=70px width=70px//> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" height=70px width=70px//> </a>
-    <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg" height=70px width=70px//> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" height=70px width=70px//> </a>
     <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg" height=70px width=70px//> </a>
     <a href="https://sass-lang.com//" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png" height=70px width=70px//> </a>
