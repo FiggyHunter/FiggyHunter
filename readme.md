@@ -24,14 +24,15 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" height=70px width=70px/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" height=70px width=70px//> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" height=70px width=70px//> </a>
-     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" height=70px width=70px//> </a>
-      <a href="https://vitejs.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" height=70px width=70px//> </a>
-           <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg" height=70px width=70px//> </a>
-            <a href="https://sass-lang.com//" target="_blank"> <img src="https://icon2.cleanpng.com/20180815/ta/kisspng-sass-logo-cascading-style-sheets-scalable-vector-g-codzero-cms-blog-tool-publishing-platform-5b74aaa0a0f4b2.3928971215343725126593.jpg" height=70px width=70px//> </a>
-                        <a href="https://webpack.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" height=70px width=70px//> </a>
-                                    <a href="https://caddyserver.com/" target="_blank"> <img src="https://www.unixmen.com/wp-content/uploads/2017/08/caddy-logo.jpg" height=70px width=70px//> </a>
-                                                <a href="https://www.linux.org/" target="_blank"> <img src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" height=70px width=70px//> </a>
-
+    <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg" height=70px width=70px//> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" height=70px width=70px//> </a>
+    <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg" height=70px width=70px//> </a>
+    <a href="https://sass-lang.com//" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png" height=70px width=70px//> </a>
+    <a href="https://webpack.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" height=70px width=70px//> </a>
+    <a href="https://caddyserver.com/" target="_blank"> <img src="https://www.unixmen.com/wp-content/uploads/2017/08/caddy-logo.jpg" height=70px width=70px//> </a>
+    <a href="https://linuxmint.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height=70px width=70px//> </a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" height=70px width=70px//> </a>
+    
 </p>
 
 <br/>
