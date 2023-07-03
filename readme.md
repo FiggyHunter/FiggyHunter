@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **<a href="https://bakery.leotg.com" target=_blank> **Bakery Website** </a>**
+- 🔭 I’m currently working on **My Perosnal Blog.** 
 
-- 🌱 I’m currently learning **Vue.js** and **SEO optimization strategies.**
+- 🌱 I’m currently learning **Astro** and **Strapi**
 
 - 👨‍💻 One place to find my projects **---->** <a href="https://www.leotg.com"  target=_blank> **My portfolio** </a>
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact - I adore **MCRN Donnager**
 
-- 👯 I’m looking to collaborate on **Interesting paid or unpaid projects that require frontend or UX knowledge.**
+- 👯 I’m looking to collaborate on **Interesting projects that require a full-stack web developer.**
 
 ## 🚀 Languages and Tools:
 
@@ -30,7 +30,9 @@
     <a href="https://webpack.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" height=70px width=70px//> </a>
     <a href="https://caddyserver.com/" target="_blank"> <img src="https://www.unixmen.com/wp-content/uploads/2017/08/caddy-logo.jpg" height=70px width=70px//> </a>
     <a href="https://linuxmint.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height=70px width=70px//> </a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" height=70px width=70px//> </a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" height=70px width=70px//> </a>    
+<a href="https://nuxt.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/23360933?s=280&v=4" height=70px width=70px//> </a>
+<a href="https://astro.build/" target="_blank"> <img src="https://astro.js.org/astro.png" height=70px width=70px//> </a>
     
 </p>
 
