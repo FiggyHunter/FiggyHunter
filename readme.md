@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Perosnal Blog.** 
+- 🔭 I’m currently working on **Myself.** 
 
-- 🌱 I’m currently learning **Astro** and **Strapi**
+- 🌱 I’m currently learning **React**, **UX/UI**, **Digital Marketing**, **Clean Code**, **API's**
 
 - 👨‍💻 One place to find my projects **---->** <a href="https://www.leotg.com"  target=_blank> **My portfolio** </a>
 
-- 📫 How to reach me - **leonardo.roi3@gmail.com**
+- 📫 How to reach me - **hey@leonardoroic.com**
 
-- ⚡ Fun fact - I adore **MCRN Donnager**
+- ⚡ Fun fact - I love **MCRN Donnager**, I adore The Expanse.
 
 - 👯 I’m looking to collaborate on **Interesting projects that require a full-stack web developer.**
 
@@ -23,7 +23,8 @@
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" height=70px width=70px/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" height=70px width=70px//> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" height=70px width=70px//> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" height=70px width=70px//> </a>     
+    <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo-with-shadow.png" height=70px width=70px/> </a> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" height=70px width=70px//> </a>
     <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg" height=70px width=70px//> </a>
     <a href="https://sass-lang.com//" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png" height=70px width=70px//> </a>
@@ -33,7 +34,11 @@
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" height=70px width=70px//> </a>    
 <a href="https://nuxt.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/23360933?s=280&v=4" height=70px width=70px//> </a>
 <a href="https://astro.build/" target="_blank"> <img src="https://astro.js.org/astro.png" height=70px width=70px//> </a>
-    
+<a href="https://react.dev/ "target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=70px width=70px//> </a>
+<a href="https://www.figma.com/ "target="_blank"> <img  src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" height=70px width=70px//> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height=70px width=70px//> </a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" height=70px width=70px//> </a> 
+<a href="https://inkscape.org/" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png" height=70px width=70px//> </a>   
 </p>
 
 <br/>
