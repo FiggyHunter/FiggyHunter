@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Myself.** 
+- 🔭 I’m currently working on **building a MERN product.** 
 
 - 🌱 I’m currently learning **React**, **UX/UI**, **Digital Marketing**, **Clean Code**, **API's**
 
