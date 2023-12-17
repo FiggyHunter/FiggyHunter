@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **building a MERN product.** 
 
-- 🌱 I’m currently learning **React**, **UX/UI**, **Digital Marketing**, **Clean Code**, **API's**
+- 🌱 I’m currently learning **Next.js**, **.NET Framework**, **Cloud, Cloud Security**, **Clean Code**, **API's**
 
 - 👨‍💻 One place to find my projects **---->** <a href="https://www.leotg.com"  target=_blank> **My portfolio** </a>
 
