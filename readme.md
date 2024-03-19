@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **building a MERN product.** 
+- 🔭 I’m currently working on **building a new portfolio.** 
 
-- 🌱 I’m currently learning **Next.js**, **.NET Framework**, **Cloud, Cloud Security**, **Clean Code**, **API's**
+- 🌱 I’m currently learning **Next.js**, **AWS, Cloud Security**, **Clean Code**, **API's**
 
 - 👨‍💻 One place to find my projects **---->** <a href="https://www.leotg.com"  target=_blank> **My portfolio** </a>
 
-- 📫 How to reach me - **hey@leonardoroic.com**
+- 📫 How to reach me - **contact@leoroic.com**
 
 - ⚡ Fun fact - I love **MCRN Donnager**, I adore The Expanse.
 
